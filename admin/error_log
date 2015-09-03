@@ -1,0 +1,1 @@
+[21-Feb-2011 14:30:57] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home3/webguide/public_html/phphelptutorials/demos/simple-cms/admin/editpage.php on line 62
